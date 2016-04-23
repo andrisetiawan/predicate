@@ -1,0 +1,2 @@
+defmodule Predicate do
+end
